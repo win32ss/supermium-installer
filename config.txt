@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="Supermium Installer"
+BeginPrompt="Do you want to install Supermium?"
+RunProgram="setup.exe"
+;!@InstallEnd@!
