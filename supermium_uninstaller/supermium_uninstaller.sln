@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "supermium_uninstaller", "supermium_uninstaller\supermium_uninstaller.vcxproj", "{95626C07-B548-427A-9F3C-159E3EE772C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95626C07-B548-427A-9F3C-159E3EE772C8}.Debug|x64.ActiveCfg = Debug|Win32
+		{95626C07-B548-427A-9F3C-159E3EE772C8}.Debug|x64.Build.0 = Debug|Win32
+		{95626C07-B548-427A-9F3C-159E3EE772C8}.Debug|x86.ActiveCfg = Debug|Win32
+		{95626C07-B548-427A-9F3C-159E3EE772C8}.Debug|x86.Build.0 = Debug|Win32
+		{95626C07-B548-427A-9F3C-159E3EE772C8}.Release|x64.ActiveCfg = Release|x64
+		{95626C07-B548-427A-9F3C-159E3EE772C8}.Release|x64.Build.0 = Release|x64
+		{95626C07-B548-427A-9F3C-159E3EE772C8}.Release|x86.ActiveCfg = Release|Win32
+		{95626C07-B548-427A-9F3C-159E3EE772C8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F8D4AEE-92EB-46C3-9BE9-579AFCB87A6E}
+	EndGlobalSection
+EndGlobal
